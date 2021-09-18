@@ -1,0 +1,33 @@
+/* Classes descendant combinator 
+
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+*/
+
+/* Type descendant combinator 
+
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+*/
+
+/* Type and class descendant combinator */
+
+.container p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
